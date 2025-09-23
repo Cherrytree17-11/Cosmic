@@ -1,5 +1,3 @@
--- This script was generated using baopayacc4 v1.4.3 obfuscator
-
 local qB,U,gE,bf,ev,ky=pairs,type,getmetatable,bit32.bxor;
 local Tm,jB,Cs,io,Ru,dq,vq,hs,Ts,Ah,HA,Ra,Jh,PD,Xh,hm,Ia,Qk,qj,wi,Gc,rb,bx,KA,hE
 Cs={}
